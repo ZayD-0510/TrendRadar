@@ -1,16 +1,6 @@
 大疆
 DJI
 
-京东
-刘强东
-
-字节
-bytedance
-张一鸣
-
-特斯拉
-马斯克
-
 微软
 Microsoft
 
@@ -31,11 +21,6 @@ sora
 grok
 通义
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -53,5 +38,12 @@ icpc
 ccpc
 蓝桥杯
 
+影视飓风
+tim
+！cook
+
 计算机科学与技术
-航空
+
+载人航天
+神舟飞船
+中国空间站
